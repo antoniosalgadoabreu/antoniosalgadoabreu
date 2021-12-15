@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**antoniosalgadoabreu/antoniosalgadoabreu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m currently working on SAP-FI Analyst
 - 🤓 I' am software developer student
 - 🌱 I’m currently learning Java
@@ -11,7 +8,6 @@
 - 📫 How to reach me: https://www.linkedin.com/in/antonio-abreu-jr/
 - 😄 Pronouns: Tony
 - ⚡ Fun fact: Bitcoin!!!
--->
 
 
 
